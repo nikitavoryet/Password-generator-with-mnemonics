@@ -8,5 +8,6 @@ Password generator using Russian dictionary
 
 #### RESULT:
 `Usnu3Umir3Zabi94#`
+
 `уснуть 3 умирать 3 забирать 94#`
 
